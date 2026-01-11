@@ -62,7 +62,7 @@ The detector produces `results.json` with the following structure:
   "confidence": 0.9,
   "reasoning": "Explanation of the decision"
 }
-
+```
 How to Run
 1. Install dependencies
 pip install requests python-dotenv
