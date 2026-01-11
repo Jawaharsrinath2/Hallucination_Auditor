@@ -81,7 +81,7 @@ python detector.py
 results.json
 
 accuracy.md
-
+```
 Project Structure
 .
 ├── chat_logs.json
@@ -91,7 +91,7 @@ Project Structure
 ├── accuracy.md
 ├── executive_memo.pdf
 └── README.md
-
+```
 Notes
 
 Only free-tier APIs were used
